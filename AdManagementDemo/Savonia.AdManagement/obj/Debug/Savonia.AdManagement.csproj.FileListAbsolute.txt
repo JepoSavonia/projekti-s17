@@ -1,0 +1,6 @@
+C:\Users\s11019\source\repos\AdManagementDemo\Savonia.AdManagement\bin\Debug\Savonia.AdManagement.dll
+C:\Users\s11019\source\repos\AdManagementDemo\Savonia.AdManagement\bin\Debug\Savonia.AdManagement.pdb
+C:\Users\s11019\source\repos\AdManagementDemo\Savonia.AdManagement\obj\Debug\Savonia.AdManagement.csprojResolveAssemblyReference.cache
+C:\Users\s11019\source\repos\AdManagementDemo\Savonia.AdManagement\obj\Debug\Savonia.AdManagement.csproj.CoreCompileInputs.cache
+C:\Users\s11019\source\repos\AdManagementDemo\Savonia.AdManagement\obj\Debug\Savonia.AdManagement.dll
+C:\Users\s11019\source\repos\AdManagementDemo\Savonia.AdManagement\obj\Debug\Savonia.AdManagement.pdb
